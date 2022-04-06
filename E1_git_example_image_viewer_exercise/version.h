@@ -7,6 +7,6 @@
 
 #include <string>
 
-std::string const siiiiii
+static const std::string Version = "1.1";
 #endif //E1_GIT_EXAMPLE_IMAGE_VIEWER_EXERCISE_VERSION_H
 
