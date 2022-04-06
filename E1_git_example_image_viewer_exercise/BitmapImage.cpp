@@ -23,3 +23,8 @@ bool BitmapImage::use() {
 
     return false;
 }
+
+bool BitmapImage::resize(int width, int height) {
+    this->widht = width;
+    this->height = height;
+}
